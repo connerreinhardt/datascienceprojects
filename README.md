@@ -16,5 +16,3 @@ _(Jupyter notebook links here will be rendered off GitHub at https://nbviewer.ju
 --[**Gurobi Inventory and Blending**](https://nbviewer.jupyter.org/github/connerreinhardt/datascienceprojects/blob/master/Gurobi_InventoryandBlending.ipynb): A few problems that involve inventory order allocation and blending of materials to make product
 
 --[**Goodvs/Bad Weather Distributions**](https://nbviewer.jupyter.org/github/connerreinhardt/datascienceprojects/blob/master/GoodvsBadWeatherDistributions.ipynb): Generating two distributions of the time it takes for planes to takeoff after they have been deiced at an unnamed airport in China. This script models both good and bad weather day distributions and then creates a merged distribution based on the probability of the weather being foul
-
---[**Gurobi Inventory and Blending**](https://nbviewer.jupyter.org/github/connerreinhardt/datascienceprojects/blob/master/Gurobi_InventoryandBlending.ipynb): A few problems that involve inventory order allocation and blending of materials to make product
