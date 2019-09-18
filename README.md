@@ -1,7 +1,7 @@
 # datascienceprojects
 Some cool projects that I've worked on!
 
-**View my notebooks by entering the URL here --> https://nbviewer.jupyter.org**
+**View my notebooks by copy/pasting their URLs into this online viewer (they may not render in GitHub) --> https://nbviewer.jupyter.org**
 
 Here you can find some interesting (public) projects that I've done to anaylze and interpret data.
 
