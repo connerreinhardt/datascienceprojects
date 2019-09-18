@@ -1,9 +1,9 @@
 # datascienceprojects
 Some cool projects that I've worked on!
 
-**View my notebooks by copy/pasting their URLs into this online viewer (they may not render in GitHub) --> https://nbviewer.jupyter.org**
-
 Here you can find some interesting (public) projects that I've done to anaylze and interpret data:
+
+_(Jupyter notebook links here will be rendered off GitHub at https://nbviewer.jupyter.org due to GitHub rendering issues)_
 
 --[**Tesla Order Scheduling Challenge**](https://nbviewer.jupyter.org/github/connerreinhardt/datascienceprojects/blob/master/Tesla%20Order%20Scheduling%20Challenge.ipynb): an decision-making model to determine the schedule of parts and trucks needed to minimize logistics costs while maintaining an adequate stock of materials for production
 
