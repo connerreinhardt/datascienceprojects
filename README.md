@@ -9,6 +9,8 @@ _(Jupyter notebook links here will be rendered off GitHub at https://nbviewer.ju
 
 --[**Zipline Data Challenge**](https://nbviewer.jupyter.org/github/connerreinhardt/datascienceprojects/blob/master/Zipline%20Data%20Challenge.ipynb): an analysis of drone flight data that I've put together to understand trends around sensor recordings shortly after takeoff
 
+--[**SeniorDesign-VenueDataExploration**](https://nbviewer.jupyter.org/github/connerreinhardt/datascienceprojects/blob/master/SeniorDesign-VenueDataExploration.ipynb): an analysis of sporting venue data to understand the predicting factors around food/beverage consumption for guests
+
 --[**Cheapest Insertion - Shortest Path**](https://nbviewer.jupyter.org/github/connerreinhardt/datascienceprojects/blob/master/CheapestInsertion-ShortestPath.ipynb): Running a quick test to understand the cost differences between nearest neighbor and cheapest insertion algorithms
 
 --[**Basic Gurobi Optimization**](https://github.com/connerreinhardt/datascienceprojects/blob/master/GurobiOptimizationProblemSet.pdf): A few problems that involve linear programming (determining optimal task starting times and step sequences in project) in Gurobi
