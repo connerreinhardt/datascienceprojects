@@ -3,13 +3,13 @@ Some cool projects that I've worked on!
 
 Here you can find some interesting (public) projects that I've done to anaylze and interpret data:
 
-_(Jupyter notebook links here will be rendered off GitHub at https://nbviewer.jupyter.org due to GitHub rendering issues)_
+_(Some Jupyter notebook links here will be rendered off GitHub at https://nbviewer.jupyter.org due to GitHub rendering issues)_
 
 --[**Tesla Order Scheduling Challenge**](https://nbviewer.jupyter.org/github/connerreinhardt/datascienceprojects/blob/master/Tesla%20Order%20Scheduling%20Challenge.ipynb): an decision-making model to determine the schedule of parts and trucks needed to minimize logistics costs while maintaining an adequate stock of materials for production
 
 --[**Zipline Data Challenge**](https://nbviewer.jupyter.org/github/connerreinhardt/datascienceprojects/blob/master/Zipline%20Data%20Challenge.ipynb): an analysis of drone flight data that I've put together to understand trends around sensor recordings shortly after takeoff
 
---[**SeniorDesign-VenueDataExploration**](https://nbviewer.jupyter.org/github/connerreinhardt/datascienceprojects/blob/master/SeniorDesign-VenueDataExploration.ipynb): an analysis of sporting venue data to understand the predicting factors around food/beverage consumption for guests
+--[**SeniorDesign-VenueDataExploration**](https://github.com/connerreinhardt/datascienceprojects/blob/master/%20SeniorDesign-VenueDataExploration.ipynb): an analysis of sporting venue data to understand the predicting factors around food/beverage consumption for guests
 
 --[**Cheapest Insertion - Shortest Path**](https://nbviewer.jupyter.org/github/connerreinhardt/datascienceprojects/blob/master/CheapestInsertion-ShortestPath.ipynb): Running a quick test to understand the cost differences between nearest neighbor and cheapest insertion algorithms
 
