@@ -9,9 +9,9 @@ _(Some Jupyter notebook links here will be rendered off GitHub at https://nbview
 
 --[**Zipline Data Challenge**](https://nbviewer.jupyter.org/github/connerreinhardt/datascienceprojects/blob/master/Zipline%20Data%20Challenge.ipynb): an analysis of drone flight data that I've put together to understand trends around sensor recordings shortly after takeoff
 
---[**SeniorDesign-VenueDataExploration**](https://public.tableau.com/profile/conner.reinhardt#!/vizhome/DataExploration_15693416147770/DataExploration) [*View data pipeline*](https://github.com/connerreinhardt/datascienceprojects/blob/master/%20SeniorDesign-VenueDataExploration.ipynb): an analysis of sporting venue data to understand the predicting factors around food/beverage consumption for guests
+--[**SeniorDesign-VenueDataExploration**](https://public.tableau.com/app/profile/conner.reinhardt/viz/DataExplorationFINAL/ItemProjections) [*View data pipeline*](https://github.com/connerreinhardt/datascienceprojects/blob/master/%20SeniorDesign-VenueDataExploration.ipynb): an analysis of sporting venue data to understand the predicting factors around food/beverage consumption for guests
 
---[**Tech Trolley Analysis**](https://public.tableau.com/profile/conner.reinhardt#!/vizhome/PassengerCounter/Dashboard): a data visualization tool created for the GT Parking and Transportation organization to understand ridership and trends on the local bus and trolley service on campus
+--[**Tech Trolley Analysis**](https://public.tableau.com/app/profile/conner.reinhardt/viz/PassengerCounter/Dashboard): a data visualization tool created for the GT Parking and Transportation organization to understand ridership and trends on the local bus and trolley service on campus
 
 --[**Cheapest Insertion - Shortest Path**](https://nbviewer.jupyter.org/github/connerreinhardt/datascienceprojects/blob/master/CheapestInsertion-ShortestPath.ipynb): Running a quick test to understand the cost differences between nearest neighbor and cheapest insertion algorithms
 
