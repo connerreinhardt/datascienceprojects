@@ -7,7 +7,7 @@ _(Some Jupyter notebook links here will be rendered off GitHub at https://nbview
 
 --[**Tesla Order Scheduling Challenge**](https://nbviewer.jupyter.org/github/connerreinhardt/datascienceprojects/blob/master/Tesla%20Order%20Scheduling%20Challenge.ipynb): an decision-making model to determine the schedule of parts and trucks needed to minimize logistics costs while maintaining an adequate stock of materials for production
 
---[**Zipline Data Challenge**](https://nbviewer.jupyter.org/github/connerreinhardt/datascienceprojects/blob/master/Zipline%20Data%20Challenge.ipynb): an analysis of drone flight data that I've put together to understand trends around sensor recordings shortly after takeoff
+--[**Zipline Data Challenge**](https://github.com/connerreinhardt/datascienceprojects/blob/master/Zipline%20Drone%20Data%20Exploration%20-%20Conner%20Reinhardt.ipynb): an analysis of drone flight data that I've put together to understand trends around sensor recordings shortly after takeoff
 
 --[**SeniorDesign-VenueDataExploration**](https://public.tableau.com/app/profile/conner.reinhardt/viz/DataExplorationFINAL/ItemProjections) [*View data pipeline*](https://github.com/connerreinhardt/datascienceprojects/blob/master/%20SeniorDesign-VenueDataExploration.ipynb): an analysis of sporting venue data to understand the predicting factors around food/beverage consumption for guests
 
